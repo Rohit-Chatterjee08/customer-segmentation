@@ -1,0 +1,10 @@
+# in requirements.txt
+pandas
+scikit-learn
+joblib
+matplotlib
+seaborn
+fastapi
+uvicorn[standard]
+gradio
+requests
